@@ -1,0 +1,13 @@
+Input:images/face1.jpg
+Input full path:/openface/images/face1.jpg
+Camera parameters:934.896,934.896,400,597.5
+Output HOG:face1.hog
+Output image:face1.jpg
+Output aligned directory:face1_aligned
+Output csv:face1.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

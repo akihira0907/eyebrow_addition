@@ -1,0 +1,14 @@
+faceID,
+confidence,
+gaze{0~1}{x,y,z},
+gazeangle{x,y},
+eye_lmk{x,y,X,Y,Z}{0~55},
+Pose_{T,R}{x,y,z},
+{x,y,X,Y,Z}{0~67},
+p_scale,
+p_r{x,y,z},
+p_t{x,y},
+p_{0~33},
+AU_{01~45}_r,
+AU_{01~45}_c
+
